@@ -1,0 +1,11 @@
+{
+  "telegram_bot_token": "7204662701:AAHUtd-aDbum8gymLGG9scfiGomCRK6es3g",
+  "telegram_chat_id": "7412131329",
+  "openweather_api_key": "736a03e3a7c6f1b387dde9fc3e377fc5",
+  "wake_word": "Hey Pia",
+  "language": "de-DE",
+  "use_curses": true,
+  "llm_model_path": "/run/media/gustavtux/6D7F-FAE4/models/TinyLlama-1.1B-Chat-v1.0.Q4_0.llamafile",
+  "llm_enabled": true,
+  "llm_server_port": 8081
+}
