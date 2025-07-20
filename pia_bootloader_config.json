@@ -1,0 +1,14 @@
+{
+    "pia3_dir": "/home/gustavtux/pia-aktuelles_script_pia",
+    "pia3_script": "pia3_termux.py",
+    "language": "de-DE",
+    "use_curses": true,
+    "llm_enabled": false,
+    "discord_intents": {
+        "default": true,
+        "message_content": true,
+        "members": true,
+        "presences": true
+    },
+    "google_speech_api_key": "YOUR_GOOGLE_API_KEY"
+}
