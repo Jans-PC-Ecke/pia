@@ -1,0 +1,16 @@
+{
+  "einträge": [
+    {
+      "titel": "arzt morgen 14 uhr",
+      "typ": "termin",
+      "erstellt": "2026-02-14T14:30:14.728737",
+      "status": null
+    },
+    {
+      "titel": "arzt morgen 14 uhr",
+      "typ": "termin",
+      "erstellt": "2026-02-14T14:45:20.355209",
+      "status": null
+    }
+  ]
+}
